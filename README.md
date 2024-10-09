@@ -18,8 +18,8 @@
     <td width="50%"><a href="https://ctf.hacker101.com/"><img width="100%" src="https://www.hackerone.com/sites/default/files/inline-images/CTF.png"></a><br><sup><strong>Hacker101:</strong> HackerOne CTF</sup></td>
   </tr>
   <tr>
-    <td width="50%"><a href=""><img width="100%" src="https://user-images.githubusercontent.com/121322/154597715-da89bb07-2a80-4974-8ded-7e1083be2ee2.gif"></a><br><sup><strong>Video:</strong> Epic Games & Unreal Engine on the 'Hub</sup></td>
-    <td width="50%"><a href=""><img width="100%" src="https://user-images.githubusercontent.com/121322/154594670-b51d40e1-5ecf-4ba5-8299-5ce602618648.png"></a><br><sup><strong>Engineer:</strong> GitHub Enterprise</sup></td>
+    <td width="50%"><a href=""><img width="100%" src="https://i.ytimg.com/vi/PSmidKIDGgo/maxresdefault.jpg"></a><br><sup><strong>Video:</strong> Epic Games & Unreal Engine Security Researcher</sup></td>
+    <td width="50%"><a href=""><img width="100%" src="https://academy.pwn0sec.com/Project-images/maintance.png"></a><br><sup><strong>Engineer:</strong> Pwn0sec Enterprise</sup></td>
   </tr>
 </table>
 
